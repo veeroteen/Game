@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+main/map.txt
+main/Map.xml
+main/SavedData.xml
+x64/
+main/x64/
+*.dll
+main/*.dll
+.user
+*.sln
+main/*.user
+main/*.filters
+main/*vcxproj
+.vs/
+*.vs/
+.vs/Gametest/v17/.suo
+.vs/Gametest/v17/Browse.VC.db
